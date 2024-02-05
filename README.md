@@ -6,11 +6,11 @@ This project provides an interactive visualization of the COVID-19 impact across
 
 ### Map Visualizations
 
-- **[Map 1: Total COVID-19 Cases per County](https://zouyang1026.github.io/geog458-lab3/map1)** - This map visualizes the total number of COVID-19 cases per county.
-- **[Map 2: COVID-19 Case Rates per 100,000 People per County](https://zouyang1026.github.io/geog458-lab3/map2)** - This map displays COVID-19 case rates per 100,000 people per county.
+- **[Map 1: Total COVID-19 Cases per County](https://zouyang1026.github.io/COVIDMapperUS/map1)** - This map visualizes the total number of COVID-19 cases per county.
+- **[Map 2: COVID-19 Case Rates per 100,000 People per County](https://zouyang1026.github.io/COVIDMapperUS/map2)** - This map displays COVID-19 case rates per 100,000 people per county.
 
-![Map 1 Visualization](https://raw.githubusercontent.com/zouyang1026/geog458-lab3/main/img/map1.png)
-![Map 2 Visualization](https://raw.githubusercontent.com/zouyang1026/geog458-lab3/main/img/map2.png)
+![Map 1 Visualization](https://raw.githubusercontent.com/zouyang1026/COVIDMapperUS/main/img/map1.png)
+![Map 2 Visualization](https://raw.githubusercontent.com/zouyang1026/COVIDMapperUS/main/img/map2.png)
 
 ## Data Sources and Processing
 
@@ -38,4 +38,4 @@ A special acknowledgment goes to Zhanpeng Ouyang for the development and impleme
 
 ## Additional Information
 
-For more details on the implementation of the maps or to contribute to the project, please visit the GitHub repository: [US COVID-19 Data Visualization](https://github.com/zouyang1026/geog458-lab3).
+For more details on the implementation of the maps or to contribute to the project, please visit the GitHub repository: [US COVID-19 Data Visualization](https://github.com/zouyang1026/COVIDMapperUS).

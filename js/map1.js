@@ -10,7 +10,7 @@ center: [-95.7129, 37.0902] // starting center (center of the US)
 
 // Load data and add as a layer
 async function geojsonFetch() {
-let response = await fetch('https://raw.githubusercontent.com/zouyang1026/geog458-lab3/main/assets/us-covid-2020-rates.json');
+let response = await fetch('https://raw.githubusercontent.com/zouyang1026/COVIDMapperUS/main/assets/us-covid-2020-rates.json');
 let county_data = await response.json();
 
 map.on('load', function loadingData() {

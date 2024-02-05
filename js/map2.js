@@ -17,7 +17,7 @@ mapboxgl.accessToken =
             // add a source of the data and then add the layer out of the source
             map.addSource('covid-counts', {
                 type: 'geojson',
-                data: 'https://raw.githubusercontent.com/zouyang1026/geog458-lab3/main/assets/us-covid-2020-counts.json'
+                data: 'https://raw.githubusercontent.com/zouyang1026/COVIDMapperUS/main/assets/us-covid-2020-counts.json'
             });
             map.addLayer({
                 'id': 'covid-counts-point',
